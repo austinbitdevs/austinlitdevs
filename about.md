@@ -2,8 +2,8 @@
 layout: default
 ---
 
-BitDevs is a community for those interested in discussing and participating in
-the research and development of Bitcoin and related protocols. You can be well
+LitDevs is a community for those interested in discussing and participating in
+the research and development of Bitcoin, Lightning, and related protocols. You can be well
 versed with or new to the topics, all are welcome. Be advised: discussion will
 be technical.
 
@@ -46,8 +46,7 @@ doesn’t have to be a whitepaper. In the case of widely-known topics (such as
 Elliptic Curve encryption) a chapter of a textbook, Wikipedia article, or other
 material can be suggested.
 
-To propose a topic to present or volunteer to present a paper, please contact
-bitdevsnyc at gmail.
+To propose a topic to present or volunteer to present a paper, please contact __TODO__
 
 ### Debate Series
 

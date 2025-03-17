@@ -3,15 +3,13 @@ layout: post
 published: false
 type: socratic
 title: "Socratic Seminar TODO"
-meetup: "https://www.meetup.com/BitDevsNYC/"
+meetup: "https://www.meetup.com/bitcoin-commons-austin"
 ---
 <!--- TODO: remove `published: false` when creating new socratic --->
 <!--- TODO: replace meetup link with https://www.meetup.com/BitDevsNYC/events/<##replace##>/ --->
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [CardCoins](https://cardcoins.co), [Chaincode Labs](https://chaincode.com) and [Wolf NYC](https://wolfnyc.com) for food, refreshments and event space.
-
-If you can't make it to the main event please join us at PUBKEY around 9:30PM. **Learn about this awesome new establishment [here](https://ny.eater.com/2022/12/13/23494423/pubkey-opening-manhattan-bitcoin-bar).**
+Please join us for our next Socratic Seminar. A special thank you to our sponsors __TODO__ for food, refreshments and event space.
 
 ## Presentation
 -
