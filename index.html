@@ -7,10 +7,20 @@ title: Home
   <p class="Home-about">
     LitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin, Lightning, and related protocols.
   </p>
+  <p class="Home-about">
+    We host monthly socratic seminars that are highly technical in nature, and open to all.
+  </p>
+  <p class="Home-about">
+    We observe the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House rule</a>.
+    You may not attribute the discussion to nor share the identity or affiliation of the participants.
+    Moreover, audio and/or video recording is NOT allowed without the explicit consent of the participants.
+  </p>
+</div>
+  </p>
 
   <div class="Home-posts">
-    <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
-    {% assign event_posts = 7 %}
+    <h2 class="Home-posts-title">Socratic Seminars</h2>
+    {% assign event_posts = 21 %}
     {% assign counter = 0 %}
     {% for post in site.posts %}
       {% if post.type == "socratic" or post.type == "whitepaper"%}
@@ -25,6 +35,5 @@ title: Home
         {% endif %}
       {% endif %}
     {% endfor %}
-    <p><a href="/events.html">See all events</a></p>
   </div>
 </div>
