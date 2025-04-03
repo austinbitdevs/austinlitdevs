@@ -2,7 +2,7 @@ title: 'Austin LitDevs'
 tagline: 'LitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin, Lightning, and related protocols.'
 
 menu:
-  - {name: 'Meetup', url: 'https://www.meetup.com/bitcoin-commons-austin/', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/bitcoin-park-austin/', external: true}
   - {name: 'X', url: 'https://x.com/LitdevsAustin', external: true}
-  - {name: 'GitHub', url: 'https://github.com/austinbitdevs', external: true}
+  - {name: 'GitHub', url: 'https://github.com/austinbitdevs/austinlitdevs', external: true}
   - {name: 'BitDevs', url: 'https://austinbitdevs.com', external: true}
